@@ -30,22 +30,22 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RishiRCarnoli/RishiRCarnoli/output/snake.svg" alt="Snake animation" />
+https://github.com/user-attachments/assets/cbf12e9e-2f9d-4826-a313-cd92f6b2f1a7
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/4qlm0b.mp4"  />
+https://github.com/user-attachments/assets/cbf12e9e-2f9d-4826-a313-cd92f6b2f1a7
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/4qlm0b.mp4"  />
+https://github.com/user-attachments/assets/cbf12e9e-2f9d-4826-a313-cd92f6b2f1a7
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/4qlm0b.mp4"  />
+https://github.com/user-attachments/assets/cbf12e9e-2f9d-4826-a313-cd92f6b2f1a7
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/4qlm0b.mp4"  />
+https://github.com/user-attachments/assets/cbf12e9e-2f9d-4826-a313-cd92f6b2f1a7
 
 ###
