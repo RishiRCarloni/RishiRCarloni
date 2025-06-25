@@ -34,7 +34,9 @@ https://github.com/user-attachments/assets/cbf12e9e-2f9d-4826-a313-cd92f6b2f1a7
 
 ###
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/cbf12e9e-2f9d-4826-a313-cd92f6b2f1a7" width="320" controls></video>
+  <video src="https://github.com/user-attachments/assets/cbf12e9e-2f9d-4826-a313-cd92f6b2f1a7" width="200" controls></video>
   <br>
-  <video src="https://github.com/user-attachments/assets/cbf12e9e-2f9d-4826-a313-cd92f6b2f1a7" width="320" controls></video>
+  <video src="https://github.com/user-attachments/assets/cbf12e9e-2f9d-4826-a313-cd92f6b2f1a7" width="200" controls></video>
 </div>
+
+
