@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">ℍ𝕚𝕥 𝕦𝕡 𝕥𝕙𝕖 𝕠𝕣𝕘𝕫 𝕗𝕠𝕣 :<br><br>- ℙ𝕖𝕒𝕔𝕖 𝕚𝕩 : ℕ𝕠𝕣𝕞𝕒𝕝 𝕥𝕤<br>- 𝕀𝕤𝕠𝕝𝕒𝕥𝕚𝕠𝕟 𝕧𝕚 : 𝕆𝕊 𝕥𝕤<br>- 𝕄𝕠𝕣𝕥𝕖 𝕧𝕚 : 𝔽𝕚𝕟𝕒𝕟𝕔𝕖 𝕥𝕤</p>
+<p align="left">ℍ𝕚𝕥 𝕦𝕡 𝕠𝕣𝕘𝕫 𝕗𝕠𝕣 :<br><br>- ℙ𝕖𝕒𝕔𝕖 𝕚𝕩 : ℕ𝕠𝕣𝕞𝕒𝕝 𝕥𝕤<br>- 𝕀𝕤𝕠𝕝𝕒𝕥𝕚𝕠𝕟 𝕧𝕚 : 𝕆𝕊 𝕥𝕤<br>- 𝕄𝕠𝕣𝕥𝕖 𝕧𝕚 : 𝔽𝕚𝕟𝕒𝕟𝕔𝕖 𝕥𝕤</p>
 
 ###
 
@@ -28,15 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="20" alt="prometheus logo"  />
 </div>
 
-###
 
-https://github.com/user-attachments/assets/cbf12e9e-2f9d-4826-a313-cd92f6b2f1a7
+https://github.com/user-attachments/assets/b52a2586-d8ca-4fbf-b881-92de1c126774
 
-###
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/cbf12e9e-2f9d-4826-a313-cd92f6b2f1a7" width="200" controls></video>
-  <br>
-  <video src="https://github.com/user-attachments/assets/cbf12e9e-2f9d-4826-a313-cd92f6b2f1a7" width="200" controls></video>
-</div>
+
+
+
+https://github.com/user-attachments/assets/7274e0f4-821a-4b2d-9a9e-7e4eae697689
 
 
