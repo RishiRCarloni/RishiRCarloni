@@ -1,4 +1,5 @@
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Rishi+R+Carloni+%28aka+Ojas+Singh%29%2C+a+Data+Engineer" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Rishi+R+Carloni+%28aka+Ojas+Singh%29%2C+a+Data+Engineer" alt="Typing SVG" /></a>
 </p>
 
 💻 About Me
@@ -43,5 +44,4 @@ Let's connect and build something great together!
 <a href="https://twitter.com/your_twitter_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
 </p>
-
 
