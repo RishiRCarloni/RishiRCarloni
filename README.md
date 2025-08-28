@@ -1,4 +1,4 @@
-7<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Rishi+R+Carloni+%28aka+Ojas+Singh%29%2C+a+Data+Engineer" alt="Typing SVG" /></a>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Rishi+R+Carloni+%28aka+Ojas+Singh%29%2C+a+Data+Engineer" alt="Typing SVG" /></a>
 </p>
 
 💻 About Me
