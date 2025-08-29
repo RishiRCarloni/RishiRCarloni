@@ -12,15 +12,12 @@ I am the founder of Algorzen, a company specializing in delivering cutting-edge 
 
 This is where you can showcase the different organizations you're involved in and highlight key projects. Feel free to use headings, bullet points, or even badges to organize this section.
 
-[Organization Name 1]:
+[Peace IX (Personal Projects)]
+[Isolation VI (Open Source Projects)]
+[Morte VI (Finance Projects)]
 
-Project A: A brief description of a project you worked on.
-
-Project B: Another project you're proud of.
-
-[Organization Name 2]:
-
-Project X: Describe a data project or initiative.
+I also contribute to datasets on kaggle, pulling decent downloads and engagement
+https://www.kaggle.com/tfisthis
 
 🛠️ My Skills & Technologies
 
@@ -40,8 +37,8 @@ Here are some of the tools and technologies I work with regularly.
 Let's connect and build something great together!
 
 <p align="center">
-<a href="https://linkedin.com/in/your_linkedin_profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://twitter.com/your_twitter_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
+<a href="www.linkedin.com/in/rishicarloni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://twitter.com/@RishiRCarloni"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+<a href="mailto:rishi.r.carloni@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
 </p>
 
